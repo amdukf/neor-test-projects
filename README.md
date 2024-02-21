@@ -106,5 +106,8 @@ spec:
               number: 80
 ```
 
-##### and after that i used <kubectl apply -f argocd-ingress.yaml> to apply Ingress Manifest and we check the ingress status with<kubectl get ingress>
+##### and after that i used "kubectl apply -f argocd-ingress.yaml" to apply Ingress Manifest.
+
+##### And we check the ingress status with
+- kubectl get ingress
 
